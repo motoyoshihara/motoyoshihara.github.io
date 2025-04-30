@@ -2,8 +2,8 @@
   "name": "Moto Yoshihara",
   "short_name": "Moto Yoshihara",
   "lang": "en-us",
-  "theme_color": "#EF525B",
-  "background_color": "#EF525B",
+  "theme_color": "#4caf50",
+  "background_color": "#4caf50",
   "icons": [{
     "src": "/media/icon_hu6f8f60d0b9c95755d2ab1ecb0697efa7_389829_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

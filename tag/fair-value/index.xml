@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fair value | Moto Yoshihara</title>
+    <link>https://motoyoshihara.github.io/tag/fair-value/</link>
+      <atom:link href="https://motoyoshihara.github.io/tag/fair-value/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fair value</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://motoyoshihara.github.io/media/icon_hu6f8f60d0b9c95755d2ab1ecb0697efa7_389829_512x512_fill_lanczos_center_2.png</url>
+      <title>Fair value</title>
+      <link>https://motoyoshihara.github.io/tag/fair-value/</link>
+    </image>
+    
+    <item>
+      <title>Valuing Commercial Real Estate and Its Real Options</title>
+      <link>https://motoyoshihara.github.io/publication/jly/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://motoyoshihara.github.io/publication/jly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

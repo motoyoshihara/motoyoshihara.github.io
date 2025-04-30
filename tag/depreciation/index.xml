@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Depreciation | Moto Yoshihara</title>
+    <link>https://motoyoshihara.github.io/tag/depreciation/</link>
+      <atom:link href="https://motoyoshihara.github.io/tag/depreciation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Depreciation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://motoyoshihara.github.io/media/icon_hu6f8f60d0b9c95755d2ab1ecb0697efa7_389829_512x512_fill_lanczos_center_2.png</url>
+      <title>Depreciation</title>
+      <link>https://motoyoshihara.github.io/tag/depreciation/</link>
+    </image>
+    
+    <item>
+      <title>Filtering in Commercial Real Estate</title>
+      <link>https://motoyoshihara.github.io/publication/bhry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://motoyoshihara.github.io/publication/bhry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

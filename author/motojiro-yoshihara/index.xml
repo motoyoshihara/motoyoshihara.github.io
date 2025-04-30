@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motojiro Yoshihara | Moto Yoshihara</title>
+    <link>https://motoyoshihara.github.io/author/motojiro-yoshihara/</link>
+      <atom:link href="https://motoyoshihara.github.io/author/motojiro-yoshihara/index.xml" rel="self" type="application/rss+xml" />
+    <description>Motojiro Yoshihara</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://motoyoshihara.github.io/media/icon_hu6f8f60d0b9c95755d2ab1ecb0697efa7_389829_512x512_fill_lanczos_center_2.png</url>
+      <title>Motojiro Yoshihara</title>
+      <link>https://motoyoshihara.github.io/author/motojiro-yoshihara/</link>
+    </image>
+    
+    <item>
+      <title>‘Necessary and sufficient’ in biology is not necessarily necessary – confusions and erroneous conclusions resulting from misapplied logic in the field of biology, especially neuroscience</title>
+      <link>https://motoyoshihara.github.io/publication/necessary_and_sufficient/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://motoyoshihara.github.io/publication/necessary_and_sufficient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

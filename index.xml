@@ -5,12 +5,20 @@
     <link>https://motoyoshihara.github.io/</link>
       <atom:link href="https://motoyoshihara.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Moto Yoshihara</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://motoyoshihara.github.io/media/icon_hu6f8f60d0b9c95755d2ab1ecb0697efa7_389829_512x512_fill_lanczos_center_2.png</url>
       <title>Moto Yoshihara</title>
       <link>https://motoyoshihara.github.io/</link>
     </image>
+    
+    <item>
+      <title>Valuing Commercial Real Estate and Its Real Options</title>
+      <link>https://motoyoshihara.github.io/publication/jly/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://motoyoshihara.github.io/publication/jly/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Research</title>
@@ -45,7 +53,15 @@
     </item>
     
     <item>
-      <title>Lost the Battle, Won the (Bidding) War?: Bidding for Firms in a Land-Option Context</title>
+      <title>Filtering in Commercial Real Estate</title>
+      <link>https://motoyoshihara.github.io/publication/bhry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://motoyoshihara.github.io/publication/bhry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Local Government Bidding for Large Manufacturing Firms in a Real Option Framework”</title>
       <link>https://motoyoshihara.github.io/publication/lost_the_battle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://motoyoshihara.github.io/publication/lost_the_battle/</guid>
