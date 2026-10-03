@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ECN 301: Intermediate Microeconomics | Moto Yoshihara</title>
-    <link>https://motoyoshihara.github.io/teaching/301/</link>
-      <atom:link href="https://motoyoshihara.github.io/teaching/301/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://motoyoshihara.com/teaching/301/</link>
+      <atom:link href="https://motoyoshihara.com/teaching/301/index.xml" rel="self" type="application/rss+xml" />
     <description>ECN 301: Intermediate Microeconomics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://motoyoshihara.github.io/teaching/301/featured.png</url>
+      <url>https://motoyoshihara.com/teaching/301/featured.png</url>
       <title>ECN 301: Intermediate Microeconomics</title>
-      <link>https://motoyoshihara.github.io/teaching/301/</link>
+      <link>https://motoyoshihara.com/teaching/301/</link>
     </image>
     
   </channel>

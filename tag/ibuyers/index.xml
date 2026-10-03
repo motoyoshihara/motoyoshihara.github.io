@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iBuyers | Moto Yoshihara</title>
+    <link>https://motoyoshihara.com/tag/ibuyers/</link>
+      <atom:link href="https://motoyoshihara.com/tag/ibuyers/index.xml" rel="self" type="application/rss+xml" />
+    <description>iBuyers</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://motoyoshihara.com/media/icon_hu6f8f60d0b9c95755d2ab1ecb0697efa7_389829_512x512_fill_lanczos_center_2.png</url>
+      <title>iBuyers</title>
+      <link>https://motoyoshihara.com/tag/ibuyers/</link>
+    </image>
+    
+    <item>
+      <title>“Racial Laundering?” The Neighborhood Consequences of Large-Scale Investor Activity in Single-Family Real Estate</title>
+      <link>https://motoyoshihara.com/publication/racial_laundering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://motoyoshihara.com/publication/racial_laundering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

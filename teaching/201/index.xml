@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Econ 201: Introduction to Economics | Moto Yoshihara</title>
-    <link>https://motoyoshihara.github.io/teaching/201/</link>
-      <atom:link href="https://motoyoshihara.github.io/teaching/201/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://motoyoshihara.com/teaching/201/</link>
+      <atom:link href="https://motoyoshihara.com/teaching/201/index.xml" rel="self" type="application/rss+xml" />
     <description>Econ 201: Introduction to Economics</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://motoyoshihara.github.io/teaching/201/featured.png</url>
+      <url>https://motoyoshihara.com/teaching/201/featured.png</url>
       <title>Econ 201: Introduction to Economics</title>
-      <link>https://motoyoshihara.github.io/teaching/201/</link>
+      <link>https://motoyoshihara.com/teaching/201/</link>
     </image>
     
   </channel>
